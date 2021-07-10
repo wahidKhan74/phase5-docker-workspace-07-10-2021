@@ -1,0 +1,6 @@
+# docker version
+sudo docker --version
+sudo docker -v
+
+# docker info
+sudo docker info
